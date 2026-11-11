@@ -76,6 +76,7 @@ flowchart TB
 
 ## 👨‍💻 My role
 
+- Built the Uprint kiosk itself: product design, PCB, firmware and enclosure
 - Built and maintain the kiosk, outlet and pricing management used in production
 - Worked across the stack: Django views and models, Bootstrap templates, jQuery and device communication
 - Prioritised **zero data loss** and **no downtime**: every schema change is backed up, reviewed and migrated safely on the live database
